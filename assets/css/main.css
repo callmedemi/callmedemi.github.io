@@ -102,7 +102,7 @@ input, select, textarea {
 		background-color: #935d8c;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(#3557a0c2 10%, #885b98 15%, #358da0 65%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(#3557a0c2 10%, #885b98 15%, #358da0 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(#3557a0c2 10%, #885b98 15%, #358da0 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(#3557a0c2 10%, #885b98 15%, #358da0 65%);
 		background-image: url("images/overlay.png"), linear-gradient(#3557a0c2 10%, #885b98 15%, #358da0 65%);
 	}
 
